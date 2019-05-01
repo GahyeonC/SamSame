@@ -10,6 +10,6 @@ Coming Soon?
  - NotDef
    - Backend Developer 
  - GahyeonC
-   - Backend Developer
+   - Frontend Developer
  - AtaraOvO
    - Webpage Designer
